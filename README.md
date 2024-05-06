@@ -1,3 +1,2 @@
 # Power-BI-Sales-Project
-An ABC company has the sales data for the last 3 years and they want to analyze it now. 
-There is a Dimension Data where there is the list of companies and their Line of Business. There are 3 years of sales data. There is also a Target Data. 
+The ABC Company Sales Analysis Power BI Dashboard provides a comprehensive analysis of sales data from the past 3 years, including sales by manager, team, and individual targets.  Moreover, customer demographics in different cities, top 5 lines of business, customer status, product analysis by category, sales by group, and top products.
